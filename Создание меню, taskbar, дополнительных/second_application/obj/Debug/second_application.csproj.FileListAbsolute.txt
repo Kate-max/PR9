@@ -1,0 +1,9 @@
+D:\Downloads\chapter-2.2-Ishodnie-kodi-sozdaniya-menu-toolbar-zagryzki-izobrageniy-v-c-sharp\second_application\bin\Debug\second_application.exe
+D:\Downloads\chapter-2.2-Ishodnie-kodi-sozdaniya-menu-toolbar-zagryzki-izobrageniy-v-c-sharp\second_application\bin\Debug\second_application.pdb
+D:\Downloads\chapter-2.2-Ishodnie-kodi-sozdaniya-menu-toolbar-zagryzki-izobrageniy-v-c-sharp\second_application\obj\Debug\second_application.csprojAssemblyReference.cache
+D:\Downloads\chapter-2.2-Ishodnie-kodi-sozdaniya-menu-toolbar-zagryzki-izobrageniy-v-c-sharp\second_application\obj\Debug\second_application.Form1.resources
+D:\Downloads\chapter-2.2-Ishodnie-kodi-sozdaniya-menu-toolbar-zagryzki-izobrageniy-v-c-sharp\second_application\obj\Debug\second_application.Preview.resources
+D:\Downloads\chapter-2.2-Ishodnie-kodi-sozdaniya-menu-toolbar-zagryzki-izobrageniy-v-c-sharp\second_application\obj\Debug\second_application.Properties.Resources.resources
+D:\Downloads\chapter-2.2-Ishodnie-kodi-sozdaniya-menu-toolbar-zagryzki-izobrageniy-v-c-sharp\second_application\obj\Debug\second_application.csproj.GenerateResource.cache
+D:\Downloads\chapter-2.2-Ishodnie-kodi-sozdaniya-menu-toolbar-zagryzki-izobrageniy-v-c-sharp\second_application\obj\Debug\second_application.exe
+D:\Downloads\chapter-2.2-Ishodnie-kodi-sozdaniya-menu-toolbar-zagryzki-izobrageniy-v-c-sharp\second_application\obj\Debug\second_application.pdb
